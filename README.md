@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amantth
-- 👀 I’m interested in technologys
+- 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me amantarekegn01@gmail.com
